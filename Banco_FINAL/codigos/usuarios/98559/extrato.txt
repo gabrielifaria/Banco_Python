@@ -1,0 +1,5 @@
+SALDO INICIAL: 10
+Deposito efetuado: R$ + 10000.0 *** NOVO SALDO: R$ 10010.0
+Saque efetuado: R$ - 12.0 *** NOVO SALDO: R$ 9998.0
+Transferencia efetuada: R$ - 12.0 *** NOVO SALDO: R$ 9986.0
+Deposito efetuado: R$ + 5000.0 *** NOVO SALDO: R$ 14986.0
